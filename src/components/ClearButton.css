@@ -5,7 +5,7 @@
     align-items: center;
     font-weight: lighter;
     font-size: 1em;
-    background-color: #FFA500;
+    background-color: #23ceec;
     color: black;
     flex:1;
     outline: 1px solid #888888;
@@ -13,5 +13,5 @@
     padding-bottom: 15px;
 }
 .clear-btn:hover{
-    background-color:#ffbc40;
+    background-color:cadetblue;
 }
