@@ -51,7 +51,7 @@ class App extends Component{
             <Button handleClick={this.addToInput}>-</Button>
           </div>
           <div className="row">
-          <ClearButton handleClear={()=>this.setState({input:""})}>Clear</ClearButton>
+          <ClearButton handleClear={()=>this.setState({input:""})}>ClearMe</ClearButton>
           </div>
         </div>
       </div>
