@@ -1,14 +1,17 @@
 .clear-btn{
-height: 2em;
-display: flex;
-justify-content: center;
-align-items: center;
-font-weight: lighter;
-font-size: 1em;
-background-color: #c5c3cd;
-color: black;
-flex:1;
-outline: 1px solid #888888;
-padding-top:15px ;
-padding-bottom: 15px;
+    height: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1em;
+    background-color: #FFA500;
+    color: black;
+    flex:1;
+    outline: 1px solid #888888;
+    padding-top:15px ;
+    padding-bottom: 15px;
+}
+.clear-btn:hover{
+    background-color:#ffbc40;
 }
